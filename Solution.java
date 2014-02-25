@@ -1,11 +1,4 @@
-/*
-Author: Wei Su
-Email:  weisu@usc.edu
-TEl: 4154653090
-IDE:    Eclipse Indigo.
-Java:   JDK 1.7.0
-Date:   Feb 14th, 2014
-*/
+ 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
